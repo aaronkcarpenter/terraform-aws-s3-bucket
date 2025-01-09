@@ -1,5 +1,5 @@
 # AWS S3 bucket Terraform Module
-
+This is simply a test TF Module for S3 Bucket Creation
 Terraform module which creates S3 bucket on AWS with all (or almost all) features provided by Terraform AWS provider.
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
